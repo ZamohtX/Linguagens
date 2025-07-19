@@ -1,0 +1,133 @@
+package application;
+
+import java.time.format.DateTimeFormatter;
+import java.time.DayOfWeek;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+
+public class Program {
+	/*
+	 * 					Data e Hora
+	 * 
+	 * 	º Conceitos:
+	 * 		|-> Data-[hora] local -> ano-mes-dia-[hora] sem fuso horario
+	 * 		|-> Data-hora global -> ano-mes-dia-hora com fuso horario
+	 * '	|-> Duração -> tempo decorrido entre duas data-horas
+	 * 
+	 * 
+	 * 	º Principais tipos de Data-Hora em java:
+	 * 		|-> Data-hora local
+	 * 			|-> LocalDate
+	 * 			|-> LocalDateTime
+	 * 		|-> Data-Hora global
+	 * 			|-> Instant
+	 * 		|-> Duração
+	 * 			|-> Duration
+	 * 		|-> Outros
+	 * 			|-> Zoneld
+	 * 			|-> ChronoUnit
+	 *
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * */
+	public static void main(String[] args) {
+		
+		
+				// 				Instanciando 
+		
+		// Data Local Atual 
+		LocalDate d01 = LocalDate.now();
+		
+		// Data-Hora Local Atual 
+		LocalDateTime d02 = LocalDateTime.now();
+		
+		// Data-Hora Global Atual
+		Instant d03 = Instant.now();
+		
+		// Convertendo para Data Local
+		LocalDate d04 = LocalDate.parse("2004-04-12");
+		
+		// Covertendo para Data-Hora Local
+		LocalDateTime d05 = LocalDateTime.parse("2004-04-12T14:20:05");
+		
+		// Convertendo para Data-Hora Global
+		Instant d06 = Instant.parse("2004-04-12T17:20:05Z");
+		Instant d07 = Instant.parse("2004-04-12T14:20:05-03:00");
+		
+		// Convertendo Data Local com formatação personalizada
+		DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+		LocalDate d08 = LocalDate.parse("12/04/2004", fmt1);
+		
+		// Convertendo Data-Hora Local com formatação personalizada
+		DateTimeFormatter fmt2 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
+		LocalDateTime d09 = LocalDateTime.parse("12/04/2004 14:20", fmt2);
+		
+		// Instanciando Data Local por dados separados
+		LocalDate d10 = LocalDate.of(2004, 04, 12);
+				
+		// Instanciando Data-Hora Local por dados separados
+		LocalDateTime d11 = LocalDateTime.of(2004, 04, 12, 14, 20);
+		
+		
+						
+				// 				Formatação 
+			
+		// Imprimido com Formatação Personalizada -> LocalDate e LocalDateTime
+		DateTimeFormatter format1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+		DateTimeFormatter format2 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
+		DateTimeFormatter format4 = DateTimeFormatter.ISO_DATE_TIME;
+		System.out.println("d04 = " + d04.format(format1));
+		System.out.println("d04 = " + format1.format(d04));
+		System.out.println("d04 = " + d04.format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
+		System.out.println("d05 = " + format4.format(d05));
+		
+		// Instant com Formatação Personalizada
+		DateTimeFormatter format3 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
+		DateTimeFormatter format5 = DateTimeFormatter.ISO_INSTANT;
+		System.out.println("d06 = " + format3.format(d06));
+		System.out.println("d06 = " + format5.format(d06));
+		
+		
+		
+		
+				//				Convertendo Data-Hora
+		
+		// Data-Hora Global para Local
+		LocalDate r1 = LocalDate.ofInstant(d06, ZoneId.systemDefault());
+		LocalDate r2 = LocalDate.ofInstant(d06, ZoneId.of("Portugal"));
+		
+		
+		// Obtendo dia a partir de uma data
+		int	diaDoMes = d04.getDayOfMonth();
+		int diaDoAno = d04.getDayOfYear();
+		DayOfWeek diaDaSemana = d04.getDayOfWeek();
+		
+		// Obtendo mes a partir de uma data
+		int mesAno = d04.getMonthValue();
+		
+		// Obtendo ano a partir de uma data
+		int ano = d04.getYear();
+		
+		// Obtendo hora a partir de uma data
+		int hora = d05.getHour();
+		
+		// Obtendo minutos a partir de uma data
+		int minutos = d05.getMinute();
+		
+		System.out.println(diaDoMes);
+		System.out.println(diaDoAno);
+		System.out.println(diaDaSemana);
+		System.out.println(mesAno);
+		System.out.println(ano);
+		System.out.println(hora);
+		System.out.println(minutos);
+		
+		
+		
+	}
+}

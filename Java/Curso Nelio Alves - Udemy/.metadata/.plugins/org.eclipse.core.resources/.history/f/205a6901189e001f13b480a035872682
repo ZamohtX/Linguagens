@@ -1,0 +1,69 @@
+package application;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class Program {
+	/*
+	 * 					Data e Hora
+	 * 
+	 * 	º Conceitos:
+	 * 		|-> Data-[hora] local -> ano-mes-dia-[hora] sem fuso horario
+	 * 		|-> Data-hora global -> ano-mes-dia-hora com fuso horario
+	 * '	|-> Duração -> tempo decorrido entre duas data-horas
+	 * 
+	 * 
+	 * 	º Principais tipos de Data-Hora em java:
+	 * 		|-> Data-hora local
+	 * 			|-> LocalDate
+	 * 			|-> LocalDateTime
+	 * 		|-> Data-Hora global
+	 * 			|-> Instant
+	 * 		|-> Duração
+	 * 			|-> Duration
+	 * 		|-> Outros
+	 * 			|-> Zoneld
+	 * 			|-> ChronoUnit
+	 *
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * */
+	public static void main(String[] args) {
+		
+		// Data Atual
+		LocalDate d01 = LocalDate.now();
+		// Data-Hora Atual 
+		LocalDateTime d02 = LocalDateTime.now();
+		
+		
+		
+		
+		
+		System.out.println(d01);
+		System.out.println(d02);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

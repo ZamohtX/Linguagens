@@ -1,0 +1,18 @@
+*{
+    margin-left: 0px;
+    padding: 0;
+}
+
+.pai h1+p {    /* seleciona o proximo dps do elemente*/
+    color: red
+
+}
+
+.pai p+h1 {
+    color: yellow
+
+}
+
+.pai h1~p { /*Seleciona todos os elementos especificados depois do anterior*/
+    color: red
+}

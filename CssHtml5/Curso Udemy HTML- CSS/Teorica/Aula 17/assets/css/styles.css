@@ -1,0 +1,31 @@
+/*
+STYLE > ID > CLASSES , ATRIBUTOS E PSEUDO-CLASSES > ELEMENTOS E PSEUDO-ELEMENTOS
+1       1                 1                                    1
+
+!important
+*/
+#p {
+    background: red;
+}
+.p {
+    background: yellow;
+}
+#p.p {
+    background: blue;
+}
+p#p {
+    background: green !important;
+}
+p#p.p {
+    background: black;
+}
+#b p#p.p {
+    background: orange !important;
+}
+
+
+
+
+
+
+

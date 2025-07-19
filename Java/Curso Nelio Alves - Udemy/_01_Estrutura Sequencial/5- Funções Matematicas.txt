@@ -1,0 +1,9 @@
+			Funções Matemáticas
+
+	// Raiz Quadrada
+A = Math.sqrt(x);
+	// Potenciação
+A = Math.pow(x, y);
+	// Valor Absoluto
+A = Math.abs(x);
+

@@ -1,0 +1,85 @@
+               Repositorio
+
+
+
+    Criar Repositorio       
+        |-> git init
+
+    Verificar estado dos arquivos
+        |-> git status
+
+    Colocando arquivos no stage
+        |-> git add (nomeArquivo)    ->         Adiciona um arquivo
+        |-> git add .                ->         Adiciona todos o arquivos da pasta
+
+    Removendo arquivos do stage
+        |-> git rm --cached (nomeArquivo)   
+
+    Fazer Commit
+        |-> git commit -m (mensagemDoCommit)
+
+    Historico de Commit
+        |-> git log                  ->         Mostra historico de commits
+        |-> git log --oneline        ->         Mostra historico resumido
+        
+    Desfazer Commit
+        |-> Checkout
+            |-> git checkout (idCommit) ->      Volta para o commit especificado
+            |-> git checkout master     ->      Volta para o tempo atual do projeto
+
+        |-> Revert
+            |-> git revert (idCommit) ->        Reverte para o commit especificado
+
+        |-> Reset
+            |-> git reset (idCommit) ->         Reseta para o commit especificado
+            |-> git reset (idCommit) -- hard -> Reseta para o commit especificado apagando o historico
+
+    Ignorando pasta
+        |-> Colocar o nome do arquivo ou pasta a ser ignorada dentro do arquivo criado .gitignore
+
+
+    Checar Branchs do projeto 
+        |-> git branch
+
+    Criar Branch
+        |-> git branch (nomeNovoBranch)
+
+    Deletar Branch
+        |-> git branch -d (nomeBranch) ->       Precisa fazer merge dos commits desse branch
+        |-> git branch -D (nomeBranch) ->       Não precisa fazer merge dos commits desse branch
+
+    Alterar Branch
+        |-> git checkout (nomeBranch)
+
+    Fundir Branchs
+        No Branch de destino:
+        |-> git merge (BranchASerImportado)
+
+
+    Resolver Conflito de Branchs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

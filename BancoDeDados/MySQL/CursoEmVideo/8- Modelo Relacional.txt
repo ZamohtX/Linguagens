@@ -1,0 +1,51 @@
+                                           Modelo Relacional
+
+
+É um tipo de conceito de banco de dados que faz com que os dados se relacionem entre si
+
+Entidade -> É o container(tabela) que vai guardar determinados atributos sobre algo
+Atributo -> São os dados que a Entidade guarda
+
+Diagrama Entidade Relacionamento -> É um diagrama pra representar de forma visual as relações entre as entidades
+
+Tipos de Relacionamentos:
+    |=> Muitos para Muitos -> onde duas entidades podem se relacionar com varios atributos uma da outra ao mesmo tempo
+    |=> Um para um -> onde duas entidades só podem se relacionar com um atributo uma da outra ao mesmo tempo
+    |=> Um para muitos -> onde uma entidade pode se relacionar com varios atributos da outra ao mesmo tempo, porem a outra só pode ter uma relaçao da entidade relacionada
+
+
+Entidade Dominante -> É a entidade que pegamos como referencia para fazer as relações com outras entidades serem realizadas
+
+
+Atributos Especiais:
+    |=> Primary Key -> Vai ser o atributo que diferencia cada objeto
+    |=> Foreigner Key -> É a chave primaria de outra entidade que foi passada pra entidade principal para fazer um relacionamento entre as entidades
+
+
+Tipos de relacionamento:
+    |=> Um para um -> Coloca a primary key da entidade a ser relacionada como foreigner key na entidade dominante
+    |=> Um para muitos -> Coloca a primary key do lado um no lado muitos como foreigner key
+    |=> Muitos para muitos -> O proprio relacionamento se transforma em uma nova entidade, no total 3 entidades, 
+                            essa nova entidade vai possuir seus proprios atributos especificos, e vai intermediar as duas entidades originais
+                            e vai se relacionar de forma um para muitos com as duas entidades anteriores,
+                            ou seja, uma relação muitos para muitos vai se transformar em duas relacões um para muitos,
+                            a entidade intermediaria vai possuir a chave primaria das duas entidades originais, como a regra da relação um para muitos.
+
+
+Integridade Relacional -> A relação entre as entidades torna impossivel apagar uma das instancias relacionadas isoladamente, 
+                        caso exista relação entre as instancias das entidades, pois os relacionamentos as torna dependentes,
+                        caso fossem apagadas, a instancia antes relacionada, agora teria um valor inconsistente, assim, só é possivel
+                        apagar instancias que não possuem relacionamentos com outras instancias da outra entidade
+
+
+
+
+Transações -> Transação é toda ação realizada pelo Banco de Dados
+    |=> ACID -> Regras de uma boa transação 
+        |=> Atomicidade -> não pode ser dividida em subtarefas, ou toda tarefa é feita, ou nada é considerado.
+        |=> Consistência -> Toda transação precisa manter a consistência do BD, não pode estar funcionando e depois ter algum erro.
+        |=> Isolamento -> Duas transações simultaneas não podem interferir uma na outra, precisam ser executadas como se estivessem isoladas.
+        |=> Durabilidade -> Os dados precisam ser duraveis, precisam estar disponiveis o tempo que quisermos.
+
+
+

@@ -1,0 +1,30 @@
+                              Configurando
+
+
+
+
+    º Checar se o git esta instalado:
+        git --version
+
+    º Mostra lista de configuração do git:
+        git config --global --list
+
+    º Informando Usuario ao git:
+        git config --global user.name "Thomaz Xavier"
+
+    º Informando Email:
+        git config --global user.email thomazxaavier@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+

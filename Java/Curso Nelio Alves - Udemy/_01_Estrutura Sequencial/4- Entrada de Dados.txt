@@ -1,0 +1,47 @@
+            Entrada de Dados
+
+	// Para fazer a entrada de dados, precisamos criar um objeo do tipo Scanner
+Scanner sc = new Scanner(System.in);
+	// Fechar o objeto quando não for mais ser usado 
+sc.close()
+
+	// Para ler uma Palavra
+x = sc.next();
+	// Para ler um Numero Inteiros
+x = sc.nextInt();
+	// Para ler um Numero Decimal -> Precisa digitar com a acentuação do sistema, ou alterar para US 
+Locale.setDefault(Locale.US);
+x = sc.nextDouble();
+	// Para ler um Caractere
+x = sc.next().charAt(0);
+	// Para ler Varios Dados
+x = sc.next();
+y = sc.nextInt();
+z = sc.nextDouble;
+	// Para ler varios Dados até a Quebra de linha
+s1 = sc.nextLine();
+s2 = sc.nextLine();
+s3 = sc.nextLine();
+		// Resolvendo Quebra de Linha Pendente
+		x = sc.nextInt();
+		sc.nextLine(); // nextLine para absolver a quebra de linha do nextInt
+		s1 = sc.nextLine();
+		s2 = sc.nextLine();
+		s3 = sc.nextLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

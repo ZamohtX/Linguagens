@@ -1,0 +1,79 @@
+/* Pseudo Classes*/
+
+.heading {
+    transition: all 112ms ease-in-out;
+}
+
+.heading:hover {  /*Passar o mouse por cima*/
+    background: red
+}
+a {
+    color: darkorange;
+}
+a:link {
+    color: deeppink;
+}
+
+a:visited {
+    color: firebrick;
+}
+a:hover {
+    background: darkblue;
+    color: white;
+    text-decoration: none;
+    transition: all 1s ease-in-out;
+}
+a:active {
+    background: darkslategray;
+    color:white;
+    text-decoration: none;
+}
+
+input:focus {
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.5);
+    outline: none;
+    border: 1px solid black
+}
+input:disabled {
+    background-color: rebeccapurple;
+    cursor: not-allowed;
+}
+input:enabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
+input:checked {
+    width: 50px;
+    height: 50px;
+}
+input:checked + p {
+    background: red;
+    transition: all 1s ease-in-out
+}
+.pai .lista li:first-child {
+    color: red;
+}
+.pai .lista li:last-child {
+    color: blue;
+}
+input:required {
+    background: red;
+}
+blockquote:not(.meio) {
+    color: red
+}
+input:not(:checked) + blockquote {
+    color: blue
+}
+section ul li:nth-child(odd) {
+    background: rebeccapurple;
+}
+section ul li:nth-child(even) {
+    background: darkturquoise;
+}
+section ul li:nth-child(3n) {
+    background-color: darkolivegreen;
+}
+section ul li:nth-child(3n+2) {
+    background-color: darkred;
+}

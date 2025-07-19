@@ -1,0 +1,46 @@
+                                 Banco de Dados
+
+    
+
+    Banco de dados são conjuntos de Tabelas
+    Tabelas são conjuntos de Registros 
+    Registros armazenam os Dados e possuem caracteriscas que chamamos de Campos
+
+    Campos = Colunas = Atributos
+    Registros = Linhas = Tuplas
+
+
+    Banco de Dados é dividido em 4 partes:
+                |=> Base de Dados
+                |=> Sistema Gerenciador (SGBD ou DMS)
+                |=> Linguagem de Exploração -> SQL
+                |=> Programas Adicionais
+
+
+
+    MySQL tem alguns tipos de linguagens que vao exercer determinado papel:
+                |=> DDL -> Linguagem de Definição -> Criação de Banco de dados, Tabelas, etc
+                    |=> create database
+                    |=> create table
+                    |=> alter table
+                    |=> drop table
+                |=> DML -> Linguagem de Manipulção -> Manter, Excluir e Manipular dados
+                    |=> insert into
+                    |=> update
+                    |=> delete
+                    |=> truncate
+                |=> DQL -> Linguagem de Solicitações -> Select, solicitações no geral
+                    |=> select
+                |=> DCL -> Linguagem de Controle -> Define as regras do usuario
+                |=> DTL -> Linguagem de Transações -> Qualquer solicitação atendida seguindo a DICA
+
+    sigla DICA para regras de Transações:
+                |=> Durabilidade ->  Todo dado precisa permanecer no estado que for determinado
+                |=> Isolamento ->    Duas ou mais Transações simultaneas não podem interferir uma na outra
+                |=> Consistência ->  Nenhuma Transação pode retornar erros pro Banco de Dados
+                |=> Atomicidade ->   Caso exista qualquer erro no processo da Transação, todas as modificações feitas serão desfeitas, deixando intacto o estado anterior do sistema
+
+
+
+
+

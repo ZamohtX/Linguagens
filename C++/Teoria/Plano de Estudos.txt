@@ -1,0 +1,215 @@
+Ótimo pedido! Aqui está uma **lista completa, organizada por tópicos e sub-tópicos**, com tudo que você deve aprender em **C++**, desde a base até o nível avançado, com foco em **fundamentos + programação competitiva**:
+
+---
+
+## ✅ **1. Fundamentos da linguagem**
+
+### 1.1 Estrutura básica de um programa
+
+* `main()`
+* `#include` e bibliotecas
+* `using namespace std`
+
+### 1.2 Entrada e saída
+
+* `cout`, `cin`
+* `getline()`, `printf/scanf` (opcional)
+* `endl` vs `'\n'`
+
+### 1.3 Tipos de dados e variáveis
+
+* `int`, `float`, `double`, `char`, `bool`
+* `long long`, `unsigned`, `auto`
+* Conversões de tipo (`type casting`)
+
+### 1.4 Operadores
+
+* Aritméticos (`+`, `-`, `*`, `/`, `%`)
+* Relacionais (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+* Lógicos (`&&`, `||`, `!`)
+* Atribuição (`=`, `+=`, `-=` etc.)
+
+### 1.5 Controle de fluxo
+
+* `if`, `else`, `else if`
+* `switch`, `case`, `default`
+* `while`, `do-while`
+* `for`
+
+---
+
+## ✅ **2. Funções e escopo**
+
+### 2.1 Funções em C++
+
+* Sintaxe de definição e chamada
+* Argumentos e retorno
+* `void`, `int`, etc.
+
+### 2.2 Escopo de variáveis
+
+* Local vs global
+* Passagem por valor vs por referência (`&`)
+* Variáveis estáticas (`static`)
+
+---
+
+## ✅ **3. Vetores e strings**
+
+### 3.1 Arrays
+
+* Declaração e uso
+* Matrizes (2D arrays)
+
+### 3.2 `vector` (C++ STL)
+
+* Declaração, `push_back`, `size`, `clear`
+* Iteradores, `for-each`
+* Ordenação com `sort()`
+
+### 3.3 `string`
+
+* Concatenação
+* Acesso a caracteres
+* Funções: `length`, `substr`, `find`, `stoi`, etc.
+
+---
+
+## ✅ **4. Ponteiros e referências**
+
+### 4.1 Ponteiros
+
+* Declaração, acesso, `*` e `&`
+* `nullptr`, ponteiros nulos
+* Arrays e ponteiros
+
+### 4.2 Referências (`int &x`)
+
+* Diferença entre ponteiro e referência
+* Uso em funções
+
+---
+
+## ✅ **5. Estruturas e modularização**
+
+### 5.1 `struct`
+
+* Declaração e uso
+* `typedef` e `using`
+
+### 5.2 Organização de código
+
+* Múltiplos arquivos
+* Cabeçalhos (`.h`)
+
+---
+
+## ✅ **6. STL (Standard Template Library) — Essencial para competição**
+
+### 6.1 Estruturas de dados
+
+* `vector`, `array`
+* `pair`, `tuple`
+* `stack`, `queue`, `deque`
+* `set`, `multiset`, `unordered_set`
+* `map`, `multimap`, `unordered_map`
+* `priority_queue`
+
+### 6.2 Funções úteis
+
+* `sort`, `reverse`, `max_element`, `min_element`
+* `binary_search`, `lower_bound`, `upper_bound`
+* `accumulate`, `count`, `find`
+
+---
+
+## ✅ **7. Programação orientada a objetos (OOP)**
+
+### 7.1 Classes e objetos
+
+* `public`, `private`
+* Métodos e atributos
+
+### 7.2 Construtores e destrutores
+
+* Padrão, sobrecarga
+
+### 7.3 Herança
+
+* `public`, `protected`, `private` herança
+
+### 7.4 Polimorfismo
+
+* Sobrecarga (`overloading`) e sobrescrita (`overriding`)
+* Funções virtuais
+
+---
+
+## ✅ **8. Recursos modernos do C++**
+
+*(Para usar C++14/17/20 depois de dominar o básico)*
+
+### 8.1 `auto`, `decltype`
+
+### 8.2 `lambda` functions
+
+### 8.3 `nullptr`, `override`, `final`
+
+### 8.4 `smart pointers`: `unique_ptr`, `shared_ptr`
+
+### 8.5 `std::optional`, `variant`, `any`
+
+### 8.6 `if constexpr`, `structured bindings`, `ranges`
+
+---
+
+## ✅ **9. Algoritmos e matemática (foco em competição)**
+
+### 9.1 Busca e ordenação
+
+* Busca binária
+* `sort` com `compare`
+* Counting Sort, Radix Sort
+
+### 9.2 Programação dinâmica (DP)
+
+* Recursão com memoização
+* Tabulação
+* Subconjuntos, mochila, LCS, LIS
+
+### 9.3 Grafos
+
+* Representação: matriz e lista de adjacência
+* BFS, DFS
+* Dijkstra, Bellman-Ford, Floyd-Warshall
+* Union-Find (DSU), Kruskal, Prim
+
+### 9.4 Estruturas de dados avançadas
+
+* Segment Tree
+* Fenwick Tree (BIT)
+* Sparse Table
+* Trie
+
+### 9.5 Matemática
+
+* Crivo de Eratóstenes
+* GCD/LCM
+* Exponenciação rápida
+* Modular inverso
+* Teorema de Fermat
+
+---
+
+## ✅ **10. Técnicas de competição**
+
+* Leitura rápida com `ios::sync_with_stdio(false)`
+* Otimização de código
+* Estratégias para resolver problemas difíceis
+* Teste e debug com inputs grandes
+* Análise de complexidade (tempo e espaço)
+
+---
+
+Se quiser, posso transformar essa lista num **plano de estudo semanal** com tarefas, desafios e links. Deseja que eu faça isso para você?
+

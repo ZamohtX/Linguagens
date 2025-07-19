@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+/home/thomaz/Área de trabalho/Codes/Java/Curso Nelio Alves - Udemy/.metadata/.plugins/org.eclipse.jdt.core
+4106880768.index
+2039144862.index
+621587643.index
+2123950828.index
+1865797976.index
+422022213.index
+2669173489.index
+3037892745.index
+3267088826.index
+4048133997.index
+2333901487.index
+2827502582.index
+1929695954.index
+637757990.index
+1011352847.index
+620344484.index

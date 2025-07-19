@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1> Analisador de Números </h1>
+    </header>
+
+    <section>
+        <div>
+            <p>Numero (entre 1 e 100) <input type="number" name="nmr" id="txtn"><input type="button" value="Adicionar" onclick="adicionar()"></p>
+        </div>
+        <div>
+            <select name="lista" id="sellista" size="8"></select><br>
+            <input type="button" value="Finalizar" class="btn-finalizar" onclick="finalizar()">
+        </div>
+        <div id="gerar-resultado"></div>
+    </section>
+
+    <footer>
+        <p>&copy; CursoemVideo</p>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
+
+</body>
+</html>

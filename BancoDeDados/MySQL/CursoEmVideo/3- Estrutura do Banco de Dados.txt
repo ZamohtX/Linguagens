@@ -1,0 +1,149 @@
+/*Cria Banco de Dados*/
+create database cadastro
+	/*Definindo utf8 como charset padrão para o BD*/
+default character set utf8 
+default collate utf8_general_ci;
+
+
+/*Cria a Tabela*/
+create table pessoas (
+		/*Campo ID -> campo será obrigatorio e o valor será auto incrementado */
+	id int not null auto_increment,
+		/*Campo Nome -> varchar(numeroMaximoDeCaracteres) e o campo será obrigatório*/
+	nome varchar(30) not null,
+		/*Campo Nascimento -> vai receber uma data */ 
+    nascimento date,
+		/*Campo Sexo -> enum('ValorAceito1','ValorAceito2') vai fazer o campo aceitar somente um desses dois valores*/
+    sexo enum('M','F'),
+		/*Campo Peso -> decimal(numeroTotalDeCasasDecimais, casasDepoisDaVirgula) vai formatar o valor recebido da maneira especificada */
+    peso decimal(5,2),
+		/*Campo Altura -> decimal(numeroTotalDeCasasDecimais, casasDepoisDaVirgula) vai formatar o valor recebido da maneira especificada */
+    altura decimal(3,2),
+		/*Campo Nome -> varchar(numeroMaximoDeCaracteres) e define um valor padrão para o Campo, caso não receba nenhum valor */
+    nacionalidade varchar(20) default 'Brasil',
+    /* Define uma chave como Primaria, ou seja, o valor dela não poderá se repetir no banco, evitando assim cadastrarmos dois objetos iguais */
+    primary key(id)
+	/* Define o charset padrão da tabela */
+) default charset = utf8;
+
+
+
+/* Inserindo os dados dos Campos na Tabela */
+	/* Forma Original */
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Thomaz', '2004-04-12','M', '99.5', '1.76', 'Brasil');
+	/* Forma Simplificada*/
+insert into pessoas values
+(default, 'Lilian', '2006-07-28', 'F', '60', '1.65', default);
+
+	/* Inserindo Dados em Massa */
+insert into pessoas 
+(id, nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+( default, 'William', '2004-04-08','M', '80','1.7', default),
+( default, 'Wenndel', '2004-04-10','M', '90','1.74', default),
+( default, 'Belo', '2004-03-12','M', '80','1.7', default);
+
+
+/* Adiciona Coluna a Tabela*/
+	/* Adiciona a Coluna no final da Tabela */
+alter table pessoas
+add column profissao varchar(10);
+	/* Escolhe a posição da Coluna na Tabela*/
+alter table pessoas
+add column profissao varchar(10) after nome;
+	/* Adiciona a Coluna no começo da Tabela*/
+alter table pessoas
+add column profissao varchar(10) first;
+
+
+/* Modifica o nome da Coluna e as Constrangeris*/
+alter table pessoas
+change column profissao prof varchar(30);
+
+/* Modifica uma Caracteristica da Coluna*/
+alter table pessoas
+modify column profissao varchar(20) not null default '';
+
+/* Deleta uma Coluna da Tabela */
+alter table pessoas
+drop column profissao;
+
+
+
+/* Apaga a tabela */
+drop table cursos;
+
+/* Apaga a tabela caso ela exista */
+drop table if exists alunos;
+
+
+/* Cria Tabela somente se ela não existir */
+create table if not exists cursos (
+	nome varchar(30) not null unique, 
+    descricao text,
+    carga int unsigned,
+    totaulas int unsigned,
+    ano year default '2024'
+) default charset=utf8;
+
+/* Adicionando a coluna prinary key */
+alter table cursos
+add column idcurso int first;
+alter table cursos
+add primary key(idcurso);
+describe cursos;
+select * from cursos;
+
+/* Renomeia a Tabela */
+alter table pessoas
+rename to multidão;
+
+/* Incluir Novos Registros */
+insert into cursos values
+('1', 'Python', 'Curso de Python', '40', '37', '2020'),
+('2', 'JavaScript', 'Curso de JavaScript', '40', '37', '2020'),
+('3', 'Jarva', 'Curso de Java', '40', '37', '2020'),
+('4', 'PGP', 'Curso de PHP', '40', '37', '2015');
+
+/* Deletando uma Linha */
+delete from cursos
+where idcurso = '2'; 
+
+/* Deletando Todas as Linhas */
+truncate table cursos;
+
+/* Sobrescrever os dados de um campo */
+	/*Atualiza o valor com set e fala where para identificar o local onde será alterado*/
+update cursos
+set nome = 'Java'
+where idcurso = '3';
+	/* Manipula varios valores da linha */
+update cursos
+set nome = 'PHP', ano ='2024'
+where idcurso = '4';
+	/* Limita a alteração para uma quantidade de linhas determinada*/
+update cursos
+set carga = '100', ano = '2024'
+where idcurso = '1';
+
+select * from cursos;
+
+
+/* Descreve a tabela */
+describe pessoas;
+
+
+
+
+
+/* Mostra todos os dados cadastrados na Tabela*/
+select * from multidão;
+
+
+
+
+
+

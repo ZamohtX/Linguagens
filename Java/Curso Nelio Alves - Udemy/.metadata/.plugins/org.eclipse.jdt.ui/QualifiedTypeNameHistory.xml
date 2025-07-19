@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="exercicio.Product"/>
+    <fullyQualifiedTypeName name="exercicio1.retangulo"/>
+    <fullyQualifiedTypeName name="exercicio2.funcionario"/>
+    <fullyQualifiedTypeName name="exercicio3.entities"/>
+    <fullyQualifiedTypeName name="util.Calculator"/>
+    <fullyQualifiedTypeName name="exercicio4.Convesor"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="exercicio5.ContaBancaria"/>
+    <fullyQualifiedTypeName name="exercicio7.operations"/>
+    <fullyQualifiedTypeName name="exercicio8.Pessoa"/>
+    <fullyQualifiedTypeName name="exercicio14.Pessoa"/>
+    <fullyQualifiedTypeName name="exercicio15.Aluno"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

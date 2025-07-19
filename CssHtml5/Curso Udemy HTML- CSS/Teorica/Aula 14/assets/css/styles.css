@@ -1,0 +1,27 @@
+*{
+    margin-left: 0px;
+    padding: 0;
+}
+.pai .um + .dois {
+    color: red
+}
+
+[meu-atributo~="valor2"] { /* seleciona se tiver esse valor dentro do atributo*/
+    color: red
+}
+[meu-atributo|="valor"] { /* Seleciona comecar com um valor com hifen 'valor-1'*/
+    color: yellow
+}
+[meu-atributo^="c"] { /* Seleciona se o atributo comecar com o termo especificado*/
+    color: green
+}
+[meu-atributo$="termina"] {/* Seleciona se o atributo terminar com o termo especificado*/
+    color: blue
+}
+[meu-atributo*="ém isso"] {/*Seleciona se o atributo contém o termo especificado*/
+    color: cyan
+}
+[checked] {
+    width: 50px;
+    height: 50px;
+}

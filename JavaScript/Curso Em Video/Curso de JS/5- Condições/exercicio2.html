@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DETRAN</title>
+    <style>
+        label {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Estrangeiro</h1>
+    <label> Digite o pais em que você nasceu: </label>
+    <input type="text" name="text" id="txt"> 
+    <input type="button" value="verificar" onclick="verificar()">
+    <div id="res"></div>
+
+
+    <script>
+
+        const pais = document.querySelector('#txt');
+        const div = document.querySelector('#res');
+
+        function verificar() {   
+            div.innerHTML = `<p>Seu país de origem é ${pais.value}</p>`
+            if(pais.value == 'Brasil') {
+                div.innerHTML += '<p>Você é Brasileiro</p>'
+            } else {
+                div.innerHTML += '<p>Você é Estrangeiro</p>'
+            }
+            div.style.fontSize = '20px';
+        }
+
+        
+    </script>
+
+</body>
+</html>

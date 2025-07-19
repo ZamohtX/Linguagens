@@ -1,0 +1,17 @@
+Andromeda 
+Code Runner
+Dracula Refined
+Dracula 
+Format HTML in PHP
+Java
+Jupyter 
+Live Server
+Material Icon
+PHP Awesome snippers
+PHP intelephense
+prettier
+pylance 
+python 
+vscode-icons
+C/C++
+C/C++ Compile Run

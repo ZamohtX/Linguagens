@@ -1,0 +1,72 @@
+1. manage.py
+
+   Define a variável de ambiente:
+     
+     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tutorial.settings')  
+    
+    Chama execute_from_command_line(), que dispara todo o processo de startup (comandos como runserver, migrate, etc).
+
+2. runserver
+
+     No módulo `django.core.management.commands.runserver`, o Django prepara um servidor HTTP de desenvolvimento (baseado em `BaseHTTPServer`).
+     Obtém o handler WSGI interno chamando `get_internal_wsgi_application(), que faz internamente WSGIHandler().
+
+3. django.setup()
+
+   É invocado pelo `runserver` antes de escutar requisições.
+   Importa `tutorial/settings.py` para ler `INSTALLED_APPS`, `MIDDLEWARE`, `ROOT_URLCONF` etc.
+
+4. App Registry
+
+     Chama apps.populate(settings.INSTALLED_APPS). Para cada app em `INSTALLED_APPS`:
+
+     1. Importa app_name.apps e localiza a subclass de `AppConfig` cujo atributo `name` bate com o pacote.
+     2. Instancia essa AppConfig e a registra.
+
+5. Importação de models
+
+     Ainda em apps.populate(), para cada AppConfig ele faz:
+
+     ```
+     import_module(f"{app_config.name}.models")  
+     ```
+     Executa `snippets/models.py` e registra todas as classes `Model` no ORM.
+
+6. Middleware
+
+     O Django instancia cada classe em `MIDDLEWARE` (na ordem definida) e prepara a cadeia de processamento de requisição.
+
+7. WSGIHandler
+
+     O handler WSGI (`WSGIHandler`) já foi obtido em `get_internal_wsgi_application()` e contém toda a configuração de settings, apps, modelos e middlewares.
+
+8. Resolução de URLs
+
+     Quando uma requisição chega, o `WSGIHandler` usa `ROOT_URLCONF` (por padrão `tutorial/urls.py`) para localizar o view correto.
+     No `tutorial/urls.py`, o `include('snippets.urls')` faz o Python importar e executar `snippets/urls.py`.
+
+9. Importação de views & serializers
+
+     Ao resolver uma URL, o Django carrega `snippets/views.py`, que importa `snippets/serializers.py` (e possivelmente `snippets/models.py` novamente, mas em cache).
+
+10. Processamento da requisição
+
+     A requisição passa sequencialmente por cada middleware (`process_request` → view → `process_response`), executa a lógica da view/serializer, retorna um `HttpResponse` e o servidor de desenvolvimento envia de volta ao cliente.
+
+11 - WSGI
+
+12 - Middleware
+
+13 - Url Main
+
+14 - Url App
+
+15 - View
+
+16 - Serializer Entrada
+
+17 - Model
+
+18 - Serializer Saida
+
+19 - View Retorna Json

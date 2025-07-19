@@ -1,0 +1,16 @@
+
+
+Multi-Cursor ->			 Alt + Click
+
+Intelissence ->			 Cntrl + Space
+
+Duplicar Linha ->  		 Shift + Alt + Seta
+
+Mover Linha ->       		 Alt + Seta
+
+Apagar Linha ->     		 Cntrl + Shift + K
+
+Procurar Proxima Ocorrência ->	 Cntrl + D
+
+Zen Mode -> 			 Ctrl + K + Z
+

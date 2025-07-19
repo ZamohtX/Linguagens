@@ -1,0 +1,67 @@
+﻿COMENTAR = CNTRL + / OU /*
+
+
+
+<html>                -> Parte que fica todo o projeto
+
+<head>                  -> Parte que ficam metadados
+
+    <title>             -> Titulo da pagina
+
+    <style>             -> Tag pra estilo
+
+<body>                -> Parte Visual do projeto 
+
+    <header>            -> Cabeçalho
+
+    <ol>		-> Lista Ordenada
+    <ul>		-> Lista Nao Ordenada
+	<li>		-> Item da lista
+    <dl>		-> Lista de Descrição
+	<dt>		-> Termo da Lista
+	<dd>		-> Descrição do Termo
+
+    <table>		-> Tabela
+	<caption>	-> Descrição da Tabela
+	<thead>		-> Cabeçalho da Tabela
+	   <tr>		-> Linha da tabela
+	   <th>         -> Coluna
+	<tbody> 	-> Corpo da Tabela	
+
+    <section>           -> Seções
+
+    <h1>                -> Titulo
+    
+    <p>                 -> Paragrafo
+        <br>                > Quebra a linha
+        <img src="">        > Coloca uma imagem
+        <a href=">          > Coloca um link ou arquivo
+        <b>                 > Faz o Texto ficar em negrito
+        <strong>            > Dxa o Texto ficar "forte", dxando em negrit
+        <i>                 > Coloca texto em italico
+        <em>                > Enfatiza o texto, dxando em italico
+        <u>                 > Coloca _ na palavra
+        <ins>               > Insere a palavra, _
+        <del>               > Risca a palavra, -
+        <s>                 > Risca a palavra, -
+        <small>             > Deixa a palavra menor
+        <sup>               > Coloca algo em posição de ²³¹²³
+        <sub>               > Rebaixa, o contrario de sup
+        <q>                 > Coloca em " para citar uma referencia
+        <code>              > para citar um codigo
+        <span>              > Container Generico pra fazer coisas genericas
+    
+    <pre>               -> Texto pre-formatado
+
+    <hr>                -> Desenha uma linha horizontal para separar algo
+
+<div>                -> Bloco Generico  
+    <nav>               -> Navegação
+        <ol>                > Lista Ordenada
+        <ul>                > Lista Desordenada
+            <li>                -> Elemento da lista
+
+    <blockquote>        -> Bloco de Citação 
+
+    <form>		-> Formulario
+

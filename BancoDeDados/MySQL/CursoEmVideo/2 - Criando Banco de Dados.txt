@@ -1,0 +1,99 @@
+                    Criação de Banco de Dados
+
+
+        Banco de dados são conjuntos de Tabelas
+        Tabelas são conjuntos de Registros 
+        Registros armazenam os Dados e possuem caracteriscas que chamamos de Campos(Colunas)
+
+
+								/* Banco de Dados*/
+                                
+/* 	Ele executa apenas um comando por vez, diferente de uma linguagem normal
+
+	O ponto e virgula ';' determina onde o comando acaba
+    
+    Não é uma liguagem Case Sentive
+*/
+
+Comandos para criar o Banco de dados:
+
+No mySQL Workbench:
+
+
+/*Cria Banco de Dados*/
+create database cadastro
+	/*Definindo utf8 como charset padrão para o BD*/
+default character set utf8 
+default collate utf8_general_ci;
+
+
+/*Cria a Tabela*/
+create table pessoas (
+		/*Campo ID -> campo será obrigatorio e o valor será auto incrementado */
+	id int not null auto_increment,
+		/*Campo Nome -> varchar(numeroMaximoDeCaracteres) e o campo será obrigatório*/
+	nome varchar(30) not null,
+		/*Campo Nascimento -> vai receber uma data */ 
+    nascimento date,
+		/*Campo Sexo -> enum('ValorAceito1','ValorAceito2') vai fazer o campo aceitar somente um desses dois valores*/
+    sexo enum('M','F'),
+		/*Campo Peso -> decimal(numeroTotalDeCasasDecimais, casasDepoisDaVirgula) vai formatar o valor recebido da maneira especificada */
+    peso decimal(5,2),
+		/*Campo Altura -> decimal(numeroTotalDeCasasDecimais, casasDepoisDaVirgula) vai formatar o valor recebido da maneira especificada */
+    altura decimal(3,2),
+		/*Campo Nome -> varchar(numeroMaximoDeCaracteres) e define um valor padrão para o Campo, caso não receba nenhum valor */
+    nacionalidade varchar(20) default 'Brasil',
+    /* Define uma chave como Primaria, ou seja, o valor dela não poderá se repetir no banco, evitando assim cadastrarmos dois objetos iguais */
+    primary key(id)
+	/*Define o charset padrão da tabela*/
+) default charset = utf8;
+
+
+/* Inserindo os dados dos Campos na Tabela */
+	/* Forma Original */
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Thomaz', '2004-04-12','M', '99.5', '1.76', 'Brasil');
+	/* Forma Simplificada*/
+insert into pessoas values
+(default, 'Lilian', '2006-07-28', 'F', '60', '1.65', default);
+
+	/* Inserindo Dados em Massa */
+insert into pessoas 
+(id, nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+( default, 'William', '2004-04-08','M', '80','1.7', default),
+( default, 'Wenndel', '2004-04-10','M', '90','1.74', default),
+( default, 'Belo', '2004-03-12','M', '80','1.7', default);
+
+/* Mostra todos os dados cadastrados na Tabela*/
+select * from pessoas;
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+p {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    direction: rtl;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 50px;
+    text-shadow: 2px 2px 2px  white;
+    text-transform: capitalize;
+
+}

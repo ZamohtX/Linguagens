@@ -1,0 +1,12 @@
+                    Constrangeris
+
+Constrangeris são palavras reservadas que definem alguma regra pra determinado Campo
+
+
+
+
+not null -> Obriga a receber um dado, não pode ficar vazio
+default -> Coloca um valor padrão caso não receba um dado
+auto_increment -> o numero da proxima ocorrencia sera o numero da ocorrencia anterior + 1 
+unique -> não deixa terem dois valores iguais
+unsigned -> (sem sinal) vai economizar 1byte pra cada dado registrado

@@ -1,0 +1,67 @@
+                        Tipos Primitivos      
+
+
+    O MySQL separa os dados por algumas familias de tipos primitivos e pra cada tipo existe um subtipo 
+    
+        Tipos:
+            Numerico
+                |=> Inteiro 
+                    |=> TinyInt
+                    |=> SmallInt
+                    |=> Int
+                    |=> MediumInt
+                    |=> BigInt
+                |=> Real 
+                    |=> Decimal
+                    |=> Float
+                    |=> Double
+                    |=> Real
+                |=> Lógico 
+                    |=> Bit
+                    |=> Boolean
+            Data/Tempo
+                |=> Date
+                |=> DateTime
+                |=> TimeStamp
+                |=> Time
+                |=> Year
+            Literais
+                |=> Caractere
+                    |=> Char
+                    |=> VarChar
+                |=> Texto
+                    |=> TinyText
+                    |=> Text
+                    |=> MediumText
+                    |=> LongText
+                |=> Binário
+                    |=> TinyBlob
+                    |=> Blob
+                    |=> MediumBlob
+                    |=> LongBlob
+                |=> Coleção
+                    |=> Enum
+                    |=> Set
+            Espacial
+                |=> Gemoetry
+                |=> Point
+                |=> Polygon
+                |=> MultiPolygon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: sans-serif;
+    font-size: 40px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+.grid {
+    width: calc(100% + 30px);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    /* gap: 30px 40px; */
+    /* row-gap: 30px;
+    column-gap: 30px; */
+
+}
+.grid div {
+    background: tomato;
+    min-height: 100px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.grid div:nth-child(5) {
+    background: darkred;
+    /* grid-column-start: um;
+    grid-column-end: quatro;
+    grid-column: span 2 / span 2;
+    grid-row: um / quatro;
+    grid-area: um / um / quatro/ quatro; */
+}

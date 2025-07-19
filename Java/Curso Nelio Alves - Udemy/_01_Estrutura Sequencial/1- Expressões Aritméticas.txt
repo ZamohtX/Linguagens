@@ -1,0 +1,17 @@
+
+                            Operadores
+
+
+
+
++ -> Adição
+- -> Subtração
+* -> Mutiplicação
+/ -> Divisão
+% -> Modulo
+
+
+
+
+
+

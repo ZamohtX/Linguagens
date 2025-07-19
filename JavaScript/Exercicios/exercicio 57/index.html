@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <section class="container">
+        <h1 class="maioridade">Validação</h1>
+
+        <div id="mensagem-erro" class="mensagem-erro"></div>
+        <h4 style="text-align: center" id="info"> Marque uma alternativa para continuar</h4>
+        <form action="/" method="post" class="main-form">
+
+            <h4 class="sexo" style="text-align: center; margin: 0" id="sexo">Sexo:</h4>
+                <p><input type="radio" name="radio-sexo" id="radio-masc" value="masculino" class="radio" ><strong>Masculino</strong></p>
+                <p><input type="radio" name="radio-sexo" class="radio" id="radio-fem" value="feminino"><strong>Feminino</strong></p>
+           
+           
+            
+            <button type="submit" class="btn-send">Enviar</button>
+        </form>
+        
+        <div class="div-resultado"></div>
+
+    </section>
+
+
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>

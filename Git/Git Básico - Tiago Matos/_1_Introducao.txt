@@ -1,0 +1,94 @@
+                                          Introdução ao GIT 
+
+
+    Definição: 
+
+         Git é um software para rastrear alterações em qualquer conjunto de arquivos,
+        geralmente usado para coordenar o trabalho entre programadores que desenvolvem 
+        código-fonte de forma colaborativa durante o desenvolvimento de software. Seus
+        objetivos incluem velocidade, integridade de dados e suporte para fluxos de trabalho
+        não lineares distribuidos.
+
+
+    Utilidades:
+        |º Salvar mutiplicas versões do mesmo projeto em um único diretório.
+        |º Trocar de versões com um comando.
+        |º Trabalhar simultaneamente em varias features diferentes.
+        |º Colaborar com outros programadores no mesmo time.
+
+
+    GitHub:
+
+         GitHub é um provedor de hospenagem na internet para desenvolvimento de software e 
+        controle de versão usando Git. Ele oferece o controle de versão distribuida e a funcionalidade
+        de gerenciamento de código-fonte do Git, além de seus proprios recursos.
+
+
+    Conceitos:
+        |-> Repositório:
+             Git Repositório é um diretório chamado .git dentro do projeto.
+            Este repositório rastreia todas as mudanças feitas nos arquivos do seu projeto,
+            construindo um histórico ao longo do tempo.
+
+        |-> Commit:
+             São os pontos seguros principais de modificação do projeto, como a finalização 
+            de uma nova feature ou qualquer coisa importante, também chamados de "Marcos Historicos".
+
+            O processo de commit possui 3 estagios:
+                |-> Modified -> Arquivos alterados 
+                |-> Staging -> Arquivos prontos para serem enviados
+                |-> Committed -> Arquivos enviados "committed"
+
+        |-> Branch:
+            |-> Main:
+                É a linha do tempo principal do projeto
+            |-> Branchs:
+                são as linhas do tempo paralelas do projeto, cada alteração do projeto que cria uma ramificação,
+                criando uma linha do tempo paralela ao projeto que se juntará na versão final.
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

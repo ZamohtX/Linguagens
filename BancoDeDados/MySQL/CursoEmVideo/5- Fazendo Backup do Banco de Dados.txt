@@ -1,0 +1,9 @@
+ 
+
+Dump -> Copia do Banco de Dados
+
+
+Clica em Server na parte superior
+Clica em Server Export
+Seleciona o Banco de Dados a ser exportado
+Nas opções "Export Options" seleciona a pasta que vai salvar o arquivo e marca a opcao "include create schema"

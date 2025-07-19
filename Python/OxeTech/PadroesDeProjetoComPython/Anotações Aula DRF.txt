@@ -1,0 +1,19 @@
+Anotações Aula DRF
+
+route 53 - Serviço aws para criar hostname
+no-ip - plataforma para gerenciar ddns 
+EC2 - Maquina Virtual na aws
+Banco de Dados - RDS
+MetaBase - Power BI no Linux - colocar pra rodar na instancia
+nginx 
+pm2 - gerenciador de logs backend
+gunicorn - servidor de produção
+new relic - Monitoramento em produção
+certbot - Certificado Https
+
+
+sudo apt install supervisor
+
+sudo supervisor restart all
+sudo supervisor status
+

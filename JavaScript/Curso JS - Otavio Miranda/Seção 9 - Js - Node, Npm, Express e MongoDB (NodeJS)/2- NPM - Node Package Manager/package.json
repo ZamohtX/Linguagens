@@ -1,0 +1,16 @@
+{
+  "name": "2--npm---node-package-manager",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.21.0",
+    "webpack": "^5.94.0"
+  }
+}

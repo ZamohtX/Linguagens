@@ -1,0 +1,55 @@
+            Saida de Dados
+
+
+Comandos
+    |-> Escrever na Tela
+        |-> System.out.println(); -> Quebra a linha
+        |-> System.out.print(); -> Não quebra a linha
+        |-> System.out.printf(); -> Formatado
+            |-> Formatar casas decimais => "%.2f" System.out.printf("%.2f", variavel) 
+    |-> Definir Localização do Programa -> Locale.setDefault(Locale.US);
+
+Formatar Texto -> A formatação é feita atraves de marcadores colocados na frase que serão substituidos pelas Variaveis
+    |-Tipos de marcadores
+        |-> $f => Ponto Flutuante
+        |-> $d => Inteiro
+        |-> $s => Texto 
+        |-> $n => Quebra de Linha
+
+        |-> Exemplo:
+            System.out.print("%s tem %d anos e ganha R$%.2f reais")
+
+
+    System.out.printf("Texto1 % Texto2 % Texto3", var1, var2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

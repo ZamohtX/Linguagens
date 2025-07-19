@@ -1,0 +1,75 @@
+                                            Tropa da Promo:
+
+
+Como vai funcionar:
+    
+    O Processo todo vai ser dividido em 3 partes:
+        1- Desenvolvimento da Aplicação - Thomaz
+        2- Presença nas redes socias - Lilian e Arthur
+        3- Gerenciamento das Métricas - Lucimar
+
+    1- Desenvolvimento da Aplicação:
+  
+        - API: 
+            a API é o cerebro de toda a nossa operação
+            Aqui temos duas abordagens:
+
+                1 - A API vai entrar em sites de promoções, pegar a primeira oferta que aparecer pra ela
+                ir nos sites que seremos afiliados, gerar o link de afiliados e montar o post para a rede social especifica ja com a copy e id visual
+
+                2 - A api vai ver quais produtos estao sendo postados em outros grupos de promoções, procurar esses produtos nos sites afiliados,
+                gerar o link desses produtos e montar o post para a rede social especifica ja com a copy e id visual
+
+        - Banco de Dados
+            Toda promoção postada vai ser guardada no Banco de Dados.
+            Sempre que uma promoção for postada, ela precisará passar por uma serie de validações:
+                1- Ver se ja não foi postada, para nao repetirmos as promoções
+                2- Ver se todas as informações estao certas
+            Após um certo periodo de tempo que a promoção for postada, vamos excluir a promoção do banco de dados, previnindo superlotação de dados e 
+            nao precisaremos guardar dados inuteis
+            
+        - Site ADM:
+            O site vai mostrar uma fila das promoções que vao ser postadas, vai ser necessário validação manual pra nao corrermos o risco de postarmos
+            algo errado ou uma promoção com algo faltando.
+            Como a promoção vai estar armazenada em um banco de dados, vamos poder alterar ou excluir qualquer promoção no periodo em que definirmos
+            para o banco de dados guardar as informações
+              
+        - Bot:
+            - Se conectar as redes sociais que serão usadas para os posts:
+                Vamos focar inicialmente no Instagram, Twitter, Telegram e WhatsApp
+            - Postar os posts depois que passar pela validação manual no site em cada plataforma especifica
+
+        (Conforme o projeto for crescendo, vamos adicionando mais funcionalidades aos programas e deixando mais eficiente)
+
+
+
+    2- Presença nas Redes Sociais:
+
+        É a parte responsavel por fazer nosso publico crescer.
+        As responsabilidades são:
+            - Pensar e aplicar estrategias para aumentar engajamento e seguidores nas redes sociais
+            - Fazer identidade visual
+            - Fazer as copys de cada post
+            - Gerenciar as Redes Sociais:
+                WhatsApp:
+                    - Checar se os grupos e as promoções estao sendo postadas corretamente e caso tenha alguma com erro apagar
+                    - Gerenciar os grupos
+                Instagram:
+                    - Postar os storys de promoções especificas
+                    - Postar Reels de produtos especificos
+                    - Responder os comentarios
+                Twitter:
+                    - Acompanhar a postagem das promoções
+                    - Responder os comentarios
+                Telegram:
+                    - Acompanhar as postagens
+            - Edição e criação de conteudos para o Instagram
+
+    3- Gerenciamento das Métricas:
+
+        A parte responsavel por dizer se nossas métricas estao boas:
+            - Entrando em cada site afiliado e monitorando as informações como Taxa de Conversão e Quantidade de Acessos
+            - Selecionar produtos que possivelmente possam ser bons para postarmos
+            - Excluir as promoções que estiverem mostrando erro no Site ADM
+            - Entrar no Site ADM e conferir os posts para que o bot possa postar  
+        

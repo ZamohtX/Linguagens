@@ -1,0 +1,8 @@
+                             Instruções
+
+
+para iniciar o servidor -> abre o terminal e inicia com "node server.js"
+para parar -> ctrl + c
+
+Se abrir clicando em run no vs code, aperta ctrl + shift + p e procura por stop code run
+

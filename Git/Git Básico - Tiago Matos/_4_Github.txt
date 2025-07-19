@@ -1,0 +1,22 @@
+                            Github
+
+
+    Configurar SSH
+        |-> ssh-keygen -t rsa -C "thomazxaavier@gmail.com"
+
+    Definr alias
+        |-> git remote add (nomeAlias) (SSH-github-Repositorio)
+
+    Push -> Fazer upload do projeto para o github
+        |-> git push (endereçoSSHRepositorio | origin) (nomeBranch)
+    
+    Pull -> Fazer atualização do projeto pelo github
+        |-> git pull (endereçoSSHRepositorio)
+
+    Clonar -> Fazer clone do projeto pelo github
+        |-> git clone (endereçoSSHRepositorio)
+
+    Pull Request -> Solicitação no github para fundir um branch ao master
+
+    Fork -> é uma forma de contribuir em projetos open source, criando uma copia no github local 
+            ke subindo posteriormente para o do criador
