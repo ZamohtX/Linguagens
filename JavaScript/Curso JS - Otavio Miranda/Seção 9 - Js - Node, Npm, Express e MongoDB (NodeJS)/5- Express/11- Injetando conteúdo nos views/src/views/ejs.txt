@@ -1,5 +1,0 @@
-<% Controle de Fluxo %> (if, for, while ...)
-<%= Imprime escapando caracteres %>
-<%- Imprime sem escapando caracteres %>
-<%# Comentario %>
-<% include('caminho/arquivo.ejs'); %>

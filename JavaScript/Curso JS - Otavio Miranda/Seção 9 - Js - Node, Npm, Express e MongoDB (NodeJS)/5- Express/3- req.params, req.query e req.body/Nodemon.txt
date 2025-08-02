@@ -1,5 +1,0 @@
-                        Nodemon
-
-Instalar Nodemon -> Terminal: npm install nodemon --save-dev
-
-Executar Nodemon -> Terminal: npx nodemon server.js(meu arquivo que quero assistir)

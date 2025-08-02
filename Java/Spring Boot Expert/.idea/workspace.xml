@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="826f31f3-ed57-473b-9944-e6e452822a32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Flutter/projetos/ola_mundo/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flutter/projetos/ola_mundo/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/0 - Modelo HTML e CSS para exercicios/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/0 - Modelo HTML e CSS para exercicios/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/0 - Modelo HTML e CSS para exercicios/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/1- Declaração de Função/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/10- Funções Recursivas/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/11- Funções Geradoras/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/2- Parametros da Função/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/3- Retorno da Função/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/4- Escopo Lexico/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/5- Closures/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/6- Funções de CallBack/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/7- Funções Imediatas ( IIFE )/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/8- Funções Fábrica (Factory Functions)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/8- Funções Fábrica (Factory Functions)/tempCodeRunnerFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/8.1- Praticando com Factory Function/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/8.1- Praticando com Factory Function/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/8.1- Praticando com Factory Function/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/9- Funções Construtoras (Constructor Functions)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/9.1- Praticando com Construtor Function/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/9.1- Praticando com Construtor Function/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 3 - Funções (Avançado)/9.1- Praticando com Construtor Function/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/0 - Modelo HTML e CSS para exercicios/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/0 - Modelo HTML e CSS para exercicios/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/0 - Modelo HTML e CSS para exercicios/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/1- Revisão do básico em Arrays/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/2- Método Splice/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/2- Método Splice/tempCodeRunnerFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/3- Concatenação de Arrays/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/4- Filter  (Filtrando o Array)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/4- Map (Mapeando o Array)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/5- Reduce (Reduzindo o Array)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/6- Filter + Map + Reduce/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 4 - Arrays (Avançado)/7- forEach/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/0 - Modelo HTML e CSS para exercicios/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/0 - Modelo HTML e CSS para exercicios/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/0 - Modelo HTML e CSS para exercicios/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/1- Revisando Objetos/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/10- Objeto Map()/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/2- Object.defineProperty e Objetct.defineProperties() - Copia/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/3- Getters e Setters/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/4- Métodos Úteos para Objetos/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/5- Prototypes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/5.1 - Manipulando Prototypes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/5.2 - Factory Functions + Prototypes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/6- Herança/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/7- Exercicio - Validando CPF/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/7- Exercicio - Validando CPF/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/7- Exercicio - Validando CPF/assets/js/resolution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/7- Exercicio - Validando CPF/assets/js/tempCodeRunnerFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/7- Exercicio - Validando CPF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/8- Polimorfismo/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 5 - Objetos e Prototypes/9- Mixing Coposing/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/0 - Modelo HTML e CSS para exercicios/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/0 - Modelo HTML e CSS para exercicios/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/0 - Modelo HTML e CSS para exercicios/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/1- Criando Classes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/2- Getters e Setters/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/3- Herança com Classes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/4- Metodos de Instância e Estáticos/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/5- Exercicio (Validando CPF)/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/5- Exercicio (Validando CPF)/assets/js/valida.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/5- Exercicio (Validando CPF)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/6- Exercicio (Validando Formulario)/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/6- Exercicio (Validando Formulario)/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/6- Exercicio (Validando Formulario)/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/6- Exercicio (Validando Formulario)/assets/js/validaCPF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 6 - Classes - POO/6- Exercicio (Validando Formulario)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/0- Modelo HTML e CSS para exercicios/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/0- Modelo HTML e CSS para exercicios/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/0- Modelo HTML e CSS para exercicios/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/1- Promises/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/2- Metodos úteis para Promises/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/3 - Async  - Await/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/pagina1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/pagina2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/4- XMLHttpRequest(GET) + Promises/pagina3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/pagina1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/pagina2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/5- Fetch API (GET)/pagina3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/6- Fetch API e Axios (JSON)/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/6- Fetch API e Axios (JSON)/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/6- Fetch API e Axios (JSON)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 7 - JS Assincrono - Promisses, Ajax, Fetch e Async(Await)/6- Fetch API e Axios (JSON)/pessoas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/1- Babel e 'can i use'/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/1- Babel e 'can i use'/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/1- Babel e 'can i use'/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/1- Babel e 'can i use'/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/1- Babel e 'can i use'/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/2- Webpack (Boilerplate)/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/src/modulo1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/3- ES6 Modules - Import e Export/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/iniciar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/4- Modelo Exercicios com Webpack/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/src/modules/GeraCPF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/src/modules/ValidaCPF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/5- Criando gerador de CPFs validos/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/src/modules/formGeraSenha.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/src/modules/geradores.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/6- Criando Gerador de Senha/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/iniciar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/src/modules/promises.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 8 - JS Tooling e ES6 Modules - Modulos/7- core-js e regenerator-runtime/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/0- Modelo/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/1- Modulos/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/1- Modulos/mod1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/1- Modulos/mod2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/1- Modulos/mod3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/2- NPM - Node Package Manager/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/2- NPM - Node Package Manager/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/2- NPM - Node Package Manager/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/3- Listando arquivos com FileSystem e Recursão Mútua/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/4- Escrevendo e Lendo arquivos/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/4- Escrevendo e Lendo arquivos/modules/escrever.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/4- Escrevendo e Lendo arquivos/modules/ler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/4- Escrevendo e Lendo arquivos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/4- Escrevendo e Lendo arquivos/teste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/0- Modelo/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/1- Introdução ao Express/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/1- Introdução ao Express/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/1- Introdução ao Express/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/1- Introdução ao Express/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/mongodb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/10- Session e Flash Messages/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/mongodb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/views/ejs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/views/includes/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/views/includes/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/11- Injetando conteúdo nos views/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/mongodb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/views/404.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/views/ejs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/views/includes/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/views/includes/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/12- Helmet e CSRF/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/mongodb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/views/404.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/views/ejs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/views/includes/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/views/includes/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/13- Modelo Final/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/2- Express + Nodemon/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/2- Express + Nodemon/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/2- Express + Nodemon/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/2- Express + Nodemon/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/2- Express + Nodemon/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/3- req.params, req.query e req.body/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/3- req.params, req.query e req.body/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/3- req.params, req.query e req.body/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/3- req.params, req.query e req.body/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/3- req.params, req.query e req.body/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/4- Router e Controllers/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/5- Views/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/6- Arquivos estáticos/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/7- Express + Webpack/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/8- Middlewares/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/Nodemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/inicarServidor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/mongodb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/public/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/5- Express/9- Model/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/frontend/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/public/assets/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/public/assets/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/controllers/contatoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/controllers/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/controllers/loginController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/middlewares/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/models/ContatoModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/models/HomeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/models/LoginModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/404.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/contato.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/ejs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/includes/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/includes/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/includes/messages.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/includes/nav.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/login-logado.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/src/views/login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Curso JS - Otavio Miranda/Seção 9 - Js - Node, Npm, Express e MongoDB (NodeJS)/6- JS+Node - Projeto Agenda/13- Modelo Final/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/OxeTech/PadroesDeProjetoComPython/Financeiro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/OxeTech/PadroesDeProjetoComPython/Financeiro" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30hVlL2SuMnzJ4f1PfTSBE5yavY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/produtosapi" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="826f31f3-ed57-473b-9944-e6e452822a32" name="Changes" comment="" />
+      <created>1754079941748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754079941748</updated>
+    </task>
+    <servers />
+  </component>
+</project>

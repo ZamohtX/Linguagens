@@ -1,4 +1,0 @@
-
-Para iniciar, carregue o node_modules com "npm install" no terminal
-
-Ativa o webpack com "npm run dev" no terminal
