@@ -164,7 +164,6 @@ int main() { _ // constante que definimos e deixa a entrada e saída rápida
 
 
 
-                                    // stack e queue
     
 
 
