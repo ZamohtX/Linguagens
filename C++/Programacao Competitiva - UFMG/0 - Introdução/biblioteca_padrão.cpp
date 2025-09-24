@@ -55,6 +55,32 @@ int main() { _ // constante que definimos e deixa a entrada e saída rápida
     // Tamanho do Vetor
     int tam = array.size();
 
+    vector<int> v = {10, 20, 30, 40, 50};
+
+    // Apagar um elemento na posição 'i'
+    v.erase(v.begin() + 2); // Apaga o 30. v se torna {10, 20, 40, 50}
+
+    // Apagar um intervalo de elementos [inicio, fim)
+    v.erase(v.begin() + 1, v.begin() + 3); // Apaga do índice 1 ao 2. v se torna {10, 50}
+
+    // Limpar o vetor inteiro
+    v.clear(); // v fica vazio
+
+    // Adicionar elemento
+    v.push_back(15);
+
+    // Remover o último elemento (muito rápido)
+    v.pop_back();
+
+    // Acessar o primeiro e último elemento
+    int primeiro = v.front();
+    int ultimo = v.back();
+
+    // Iterar de forma mais limpa (como você já fez com 'auto')
+    for (int elemento : v) {
+        cout << elemento << " ";
+    }
+
 
                                     // String
         
@@ -136,7 +162,7 @@ int main() { _ // constante que definimos e deixa a entrada e saída rápida
     int menor = min({1,2,3,45,5,6,7});
 
 
-                                    // auto
+                                    // Auto
     
         // Identifica o tipo  em tempo de compilação
     vector<int> v = {0,1,2};
@@ -162,9 +188,30 @@ int main() { _ // constante que definimos e deixa a entrada e saída rápida
 
 
 
+                                    // Fila
+    queue<int> fila;
+
+    // Adicionar um elemento ao final da fila
+    fila.push(10);
+    fila.push(20); // Fila: [10, 20]
+
+    // Acessar o elemento da frente
+    int frente = fila.front(); // frente = 10
+
+    // Remover o elemento da frente
+    fila.pop(); // Fila: [20]
+
+    // Verificar se a fila está vazia
+    if (fila.empty()) {
+        cout << "Fila vazia!" << endl;
+    }
+
+    // Ver o tamanho da fila
+    int tamanho = fila.size();
 
 
-    
+
+        
 
 
 }

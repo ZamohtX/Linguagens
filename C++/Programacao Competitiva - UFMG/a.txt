@@ -1,0 +1,319 @@
+Cabeçalhos e Macros
+
+    Recurso: <bits/stdc++.h>
+
+        Descrição: Um cabeçalho não-padrão que inclui a maioria das bibliotecas.
+
+        Link: (Não é oficial, específico do compilador GCC)
+
+    Recurso: using namespace std;
+
+        Descrição: Evita a necessidade de prefixar tudo com std::.
+
+        Link: https://en.cppreference.com/w/cpp/language/namespace#using-directive
+
+    Recurso: ios_base::sync_with_stdio(0)
+
+        Descrição: Desincroniza os fluxos de I/O do C++ e do C para mais velocidade.
+
+        Link: https://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio
+
+    Recurso: cin.tie(0)
+
+        Descrição: Desvincula cin de cout, acelerando a entrada de dados.
+
+        Link: https://en.cppreference.com/w/cpp/io/basic_ios/tie
+
+    Recurso: typedef
+
+        Descrição: Cria um "apelido" para um tipo de dado.
+
+        Link: https://en.cppreference.com/w/cpp/language/typedef
+
+Containers (Estruturas de Dados)
+
+    Recurso: vector
+
+        Descrição: Array dinâmico que pode crescer e diminuir de tamanho.
+
+        Link: https://en.cppreference.com/w/cpp/container/vector
+
+    Recurso: string
+
+        Descrição: Uma sequência de caracteres, com muitas funções úteis.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string
+
+    Recurso: set
+
+        Descrição: Armazena elementos únicos de forma ordenada.
+
+        Link: https://en.cppreference.com/w/cpp/container/set
+
+    Recurso: pair
+
+        Descrição: Um objeto que armazena exatamente dois elementos.
+
+        Link: https://en.cppreference.com/w/cpp/utility/pair
+
+    Recurso: map
+
+        Descrição: Armazena pares de chave-valor, com chaves únicas e ordenadas.
+
+        Link: https://en.cppreference.com/w/cpp/container/map
+
+Algoritmos
+
+    Recurso: sort
+
+        Descrição: Ordena os elementos em um intervalo (ex: um vetor).
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/sort
+
+    Recurso: max
+
+        Descrição: Retorna o maior de dois ou mais valores.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/max
+
+    Recurso: min
+
+        Descrição: Retorna o menor de dois ou mais valores.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/min
+
+Outros
+
+    Recurso: auto
+
+        Descrição: Deduz automaticamente o tipo de uma variável em tempo de compilação.
+
+        Link: https://en.cppreference.com/w/cpp/language/auto
+
+    Recurso: Laço for baseado em intervalo
+
+        Descrição: Uma forma mais limpa de iterar sobre todos os elementos de um container.
+
+        Link: https://en.cppreference.com/w/cpp/language/range-for
+
+II. Recomendações Adicionais e Otimizações
+
+Containers (Estruturas de Dados)
+
+    Recurso: queue
+
+        Descrição: Estrutura de fila (FIFO - First-In, First-Out). Essencial para BFS.
+
+        Link: https://en.cppreference.com/w/cpp/container/queue
+
+    Recurso: priority_queue
+
+        Descrição: Fila onde o elemento de maior (ou menor) prioridade está sempre no topo.
+
+        Link: https://en.cppreference.com/w/cpp/container/priority_queue
+
+    Recurso: unordered_set
+
+        Descrição: Armazena elementos únicos sem ordem específica (mais rápido que set).
+
+        Link: https://en.cppreference.com/w/cpp/container/unordered_set
+
+    Recurso: unordered_map
+
+        Descrição: Armazena pares chave-valor sem ordem (mais rápido que map).
+
+        Link: https://en.cppreference.com/w/cpp/container/unordered_map
+
+Funções de <vector>
+
+    Recurso: vector::erase
+
+        Descrição: Remove elementos de uma posição ou de um intervalo.
+
+        Link: https://en.cppreference.com/w/cpp/container/vector/erase
+
+    Recurso: vector::pop_back
+
+        Descrição: Remove o último elemento do vetor (operação muito rápida).
+
+        Link: https://en.cppreference.com/w/cpp/container/vector/pop_back
+
+    Recurso: vector::clear
+
+        Descrição: Remove todos os elementos, deixando o vetor com tamanho 0.
+
+        Link: https://en.cppreference.com/w/cpp/container/vector/clear
+
+    Recurso: vector::front
+
+        Descrição: Acessa o primeiro elemento.
+
+        Link: https://en.cppreference.com/w/cpp/container/vector/front
+
+    Recurso: vector::back
+
+        Descrição: Acessa o último elemento.
+
+        Link: https://en.cppreference.com/w/cpp/container/vector/back
+
+Algoritmos
+
+    Recurso: lower_bound
+
+        Descrição: Encontra o primeiro elemento em um intervalo ordenado que é >= a um valor.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/lower_bound
+
+    Recurso: upper_bound
+
+        Descrição: Encontra o primeiro elemento em um intervalo ordenado que é > que um valor.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/upper_bound
+
+    Recurso: binary_search
+
+        Descrição: Verifica se um valor existe em um intervalo ordenado (retorna true ou false).
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/binary_search
+
+    Recurso: minmax
+
+        Descrição: Retorna um pair com o menor e o maior de um conjunto de valores.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/minmax
+
+    Recurso: min_element
+
+        Descrição: Encontra um ponteiro para o menor elemento em um intervalo.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/min_element
+
+    Recurso: max_element
+
+        Descrição: Encontra um ponteiro para o maior elemento em um intervalo.
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/max_element
+
+
+Leitura de Strings (Entrada)
+
+    Recurso: cin >> minha_string
+
+        Descrição: Lê uma única palavra da entrada, parando no primeiro espaço, tabulação ou quebra de linha que encontrar.
+
+        Link: (Parte da biblioteca <iostream>) https://en.cppreference.com/w/cpp/io/basic_istream/operator_gtgt
+
+    Recurso: getline(cin, minha_string)
+
+        Descrição: Lê uma linha inteira da entrada, incluindo os espaços, até encontrar uma quebra de linha (\n). Essencial para ler nomes completos ou frases.
+
+        Dica: Se você usou cin >> var; antes de getline, pode ser necessário usar cin.ignore(); para limpar o buffer de entrada.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/getline
+
+Acesso e Tamanho
+
+    Recurso: s.size() ou s.length()
+
+        Descrição: Ambas retornam o número de caracteres na string. São totalmente intercambiáveis.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/size
+
+    Recurso: s.empty()
+
+        Descrição: Retorna true se a string estiver vazia e false caso contrário. É mais rápido do que verificar s.size() == 0.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/empty
+
+    Recurso: s.front() e s.back()
+
+        Descrição: Acessam o primeiro (front()) e o último (back()) caractere da string, respectivamente.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/front
+
+Modificação e Concatenação
+
+    Recurso: s.push_back(char)
+
+        Descrição: Adiciona um único caractere ao final da string.
+
+        Exemplo: string nome = "obi"; nome.push_back('2'); // nome vira "obi2"
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/push_back
+
+    Recurso: s.pop_back()
+
+        Descrição: Remove o último caractere da string.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/pop_back
+
+    Recurso: Operador += ou +
+
+        Descrição: Concatena (junta) duas strings ou uma string com um caractere.
+
+        Exemplo: string s1 = "bom"; string s2 = s1 + " dia"; s2 += '!'; // s2 vira "bom dia!"
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/operator%2B
+
+    Recurso: s.clear()
+
+        Descrição: Apaga todos os caracteres da string, tornando-a vazia.
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/clear
+
+Busca e Substrings
+
+    Recurso: s.substr(pos, len)
+
+        Descrição: Retorna uma nova string que é uma cópia de uma porção da string original, começando da posição pos e com len caracteres de comprimento. Se len for omitido, vai até o final.
+
+        Exemplo: string s = "programar"; string sub = s.substr(2, 4); // sub vira "ogra"
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/substr
+
+    Recurso: s.find(substring)
+
+        Descrição: Procura a primeira ocorrência de uma substring. Retorna o índice onde a substring começa. Se não encontrar, retorna um valor especial chamado string::npos.
+
+        Exemplo: string s = "olimpiada"; if (s.find("pia") != string::npos) { cout << "Encontrou!"; }
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/find
+
+Conversões
+
+    Recurso: stoi(string) e stoll(string)
+
+        Descrição: Converte uma string que representa um número para um int (stoi) ou long long (stoll). Causa um erro se a string não for um número válido.
+
+        Exemplo: int numero = stoi("123");
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/stol
+
+    Recurso: to_string(numero)
+
+        Descrição: Converte um valor numérico (qualquer tipo, como int, long long, double) para sua representação em string.
+
+        Exemplo: string s = to_string(42);
+
+        Link: https://en.cppreference.com/w/cpp/string/basic_string/to_string
+
+Uso com a Biblioteca <algorithm>
+
+Como string se comporta como uma sequência de caracteres, você pode usar as funções da biblioteca <algorithm> nela.
+
+    Recurso: reverse(s.begin(), s.end())
+
+        Descrição: Inverte a ordem dos caracteres na string. Muito útil para problemas de palíndromos.
+
+        Exemplo: string s = "abcde"; reverse(s.begin(), s.end()); // s vira "edcba"
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/reverse
+
+    Recurso: sort(s.begin(), s.end())
+
+        Descrição: Ordena os caracteres da string em ordem alfabética (ou numérica). Perfeito para problemas de anagramas.
+
+        Exemplo: string s = "cbdea"; sort(s.begin(), s.end()); // s vira "abcde"
+
+        Link: https://en.cppreference.com/w/cpp/algorithm/sort
+
